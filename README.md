@@ -10,7 +10,6 @@
 <p align="center">
  <li>
 A project aimed towards bringing the concept of connected cars using several modules.</li>
- <li> Description to be added</li>
 </p>
 
 ## Project information ℹ️
@@ -26,7 +25,7 @@ A project aimed towards bringing the concept of connected cars using several mod
 
 - **Team Name**: FORTIFY
 - **Team Members**: _Naman Bansal [@psifrous](https://github.com/psifrous), Swapnil Panwala [@panwalas](https://github.com/panwalas), Akshita Mehta [@MehtaAkshita](https://github.com/MehtaAkshita), Arjun Mohnot [@Arjun009](https://github.com/https://github.com/Arjun009)_
-- **Demo Link**: _Upload your project demo on YouTube/Drive and paste its link here_
+- **Demo Link**: _https://www.youtube.com/watch?v=Kq-9fL6Spwc_
 - **Repository Link**: https://github.com/psifrous/connected-cars
 - **Labels**: ML, Image & Video Processing, Android App, Web Development<br>
 
