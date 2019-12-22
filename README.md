@@ -60,8 +60,6 @@ Our project comprises of the following modules:
 
 So drive happy and safe 😊 
 
-## Local Deployment
-TBA
 ## Contributors ✨
 
 <table>
