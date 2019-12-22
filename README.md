@@ -12,20 +12,20 @@ A project aimed towards bringing the concept of connected cars using several mod
 
 ## Project information ℹ️
 - **Project Name**: Connected Cars
-- **Short Project Description**: _An deployable solution for many major road and traffic problems faced in day to day life._
+- **Short Project Description**: _A deployable solution for many major road and traffic problems faced in day to day life._
 
 | Project Modules |  Description |
 | --- | --- |
-| Congestion Prevention | Computer Vision based approch to control traffic lights based upon density |
-| Drowsiness Detection | Computer Vision based approch to indentify drowsiness of driver  |
-| Vacant Lanes | Notifying vehicles that are driven ahead of Emergency vehicles |
-| Pothole Detection | mdc | vf
+| Congestion Prevention | Computer Vision based approch to control traffic lights based upon density calculation of vehicles |
+| Emergency Vehicle Priority | Notifying vehicles that are driving ahead of the approaching emergency vehicle |
+| Drowsiness Detection | Computer Vision based approch to indentify drowsiness of driver |
+| Pothole Detection | Using Yolov2 to idenetify potholes on the road and notify concerned authorities for the fix |
 
 - **Team Name**: FORTIFY
 - **Team Members**: _Naman Bansal [@psifrous](https://github.com/psifrous), Swapnil Panwala [@panwalas](https://github.com/panwalas), Akshita Mehta [@MehtaAkshita](https://github.com/MehtaAkshita), Arjun Mohnot [@Arjun009](https://github.com/https://github.com/Arjun009)_
+- **Demo Link**: _Upload your project demo on YouTube/Drive and paste its link here_
 - **Repository Link**: https://github.com/psifrous/connected-cars
-- **Labels**: TBA<br>
-<b> Link to the code:TBA </b>
+- **Labels**: ML, Image & Video Processing, Android App, Web Development<br>
 
 ## Platforms used 📦
 TBA
