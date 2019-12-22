@@ -3,6 +3,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)] 
 [![GitHub contributors](https://img.shields.io/github/contributors/psifrous/connected-cars)]
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/psifrous/connected-cars)]
+
+<p align="center"><img src="https://github.com/psifrous/connected-cars/blob/master/images/Connected%20Cars%20(1).png" width="200" /></p>
+
 ## Overview
 <p align="center">
  <li>
