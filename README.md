@@ -28,7 +28,25 @@ A project aimed towards bringing the concept of connected cars using several mod
 - **Labels**: ML, Image & Video Processing, Android App, Web Development<br>
 
 ## Platforms & Technologies used 📦
-Python, Android Studio, Yolov2, OpenCV, TensorFlow, Keras, HTML, CSS, JavaScript, Dash by Plotly, Way2SMS API, Number Plate reader API, Google Maps API.
+### Backend
+* Yolov2
+* OpenCV
+* Keras
+* TensorFlow
+* Flask
+### Frontend
+* Dash by Plotly
+* JavaScript
+* HTML
+* CSS
+* Android Studio
+### Database
+* Firebase
+### API's
+* Plate Recognizer API
+* Way2Sms API
+* Google Maps API
+
 
 ## Project Synposis ⚛️
 
