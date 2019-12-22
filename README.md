@@ -60,15 +60,13 @@ Our project comprises of the following modules:
 
 So drive happy and safe 😊 
 
-## Local Deployment
-TBA
 ## Contributors ✨
 
 <table>
   <tr>
     <td align="center"><a href="https://github.com/psifrous"><img src="https://avatars2.githubusercontent.com/u/36012704?s=460&v=4" width="100px;" alt="Naman Bansal"/><br /><sub><b>Naman Bansal</b></sub></a><br />
     <td align="center"><a href="https://github.com/panwalas"><img src="https://avatars2.githubusercontent.com/u/39371808?s=460&v=4" width="100px;" alt="Swapnil Panwalas"/><br /><sub><b>Swapnil Panwala</b></sub></a><br />
-    <td align="center"><a href="https://github.com/Arjun009"><img src="https://avatars0.githubusercontent.com/u/33459977?s=400&v=4" width="100px;" alt="Arjun Mohnot/><br /><sub><b>Arjun Mohnot</b></sub></a><br />
+    <td align="center"><a href="https://github.com/Arjun009"><img src="https://avatars0.githubusercontent.com/u/33459977?s=400&v=4" width="100px;" alt="Arjun Mohnot"/><br /><sub><b>Arjun Mohnot</b></sub></a><br />
     <td align="center"><a href="https://github.com/MehtaAkshita"><img src="https://avatars2.githubusercontent.com/u/44060710?s=400&v=4" width="100px;" alt="Akshita Mehta"/><br /><sub><b>Akshita Mehta</b></sub></a><br />
  </tr>
 </table>
