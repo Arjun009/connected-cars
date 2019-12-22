@@ -35,8 +35,8 @@ TBA
 Connected Cars is an initiative to improve traffic conditions, shorten duration of time taken by emergency vehicles to reach desired destination, avoiding potholes and crashes along with making cities smart in an efficient and effective way by making vehicles communicate i.e. help. Moverover, our concept aims to use the existing infrastructure installed in roads, crossings and cars, thus making it feasible to deploy economically! 
 
 Our project comprises of the following modules:
-1) Congestion Prevention : Don't you get fed up when you have to wait on traffic signal even when there is no car in the other lane. Can we control traffic lights based on car density in a particular lane? Yes.....Demo 1 
-2) Emergency Vehicle Priority : Many people die in India because emergency vehicles don't reach required destination in time. Can we save life by informing people in advance about an incoming emergency vehicle? Yes....Demo 2
+1) **Congestion Prevention:** Don't you get fed up when you have to wait on traffic signal even when there is no car in the other lane. Can we control traffic lights based on car density in a particular lane? Yes! 
+2) **Emergency Vehicle Priority:** Many people die in India because emergency vehicles don't reach required destination in time. Can we save life by informing people in advance about an incoming emergency vehicle? Definitely yes!
 3) Drowsiness Detection: Drowsy driving is the dangerous combination of driving and sleepiness or fatigue and it has led to many car accidents. Can we wake up the driver by playing some loud alarm? Yes... Demo 3
 4) Pothole Detection : Potholes can puncture your tire or bend or crack your wheel. It can damage your tire's sidewall or belts. Even a minor impact may knock your vehicle out of alignment. A pothole strike can damage your shocks or struts, or harm your suspension. Can we detect them and inform about that to the concerned authority? Yes.. Demo 4 
 
