@@ -31,11 +31,10 @@ A project aimed towards bringing the concept of connected cars using several mod
 TBA
 
 ## Project Synposis ⚛️
-As humans evolve, the things around them also evolve, change or even get created.
 
-Connected Cars is an initiative to improve traffic conditions, shorten duration of time taken by emergency vehicles to reach desired destination, avoiding potholes and crashes  along with making cities smart in an efficient and effective way by making vehicles communicate i.e. help.
+Connected Cars is an initiative to improve traffic conditions, shorten duration of time taken by emergency vehicles to reach desired destination, avoiding potholes and crashes along with making cities smart in an efficient and effective way by making vehicles communicate i.e. help. Moverover, our concept aims to use the existing infrastructure installed in roads, crossings and cars, thus making it feasible to deploy economically! 
 
-Our project comprises of 4 modules:
+Our project comprises of the following modules:
 1) Congestion Prevention : Don't you get fed up when you have to wait on traffic signal even when there is no car in the other lane. Can we control traffic lights based on car density in a particular lane? Yes.....Demo 1 
 2) Emergency Vehicle Priority : Many people die in India because emergency vehicles don't reach required destination in time. Can we save life by informing people in advance about an incoming emergency vehicle? Yes....Demo 2
 3) Drowsiness Detection: Drowsy driving is the dangerous combination of driving and sleepiness or fatigue and it has led to many car accidents. Can we wake up the driver by playing some loud alarm? Yes... Demo 3
