@@ -52,7 +52,7 @@ A project aimed towards bringing the concept of connected cars using several mod
 
 Connected Cars is an initiative to improve traffic conditions, shorten duration of time taken by emergency vehicles to reach desired destination, avoiding potholes and crashes along with making cities smart in an efficient and effective way by making vehicles communicate i.e. help. Moverover, our concept aims to use the existing infrastructure installed in roads, crossings and cars, thus making it feasible to deploy economically! 
 
-<center>![Main Page](/https://github.com/psifrous/connected-cars/blob/master/images/Screenshot%20(86).png){:height="50%" width="50%"}</center>
+<p align="center"><img src="https://github.com/psifrous/connected-cars/blob/master/images/Screenshot%20(86).png" width="400" /></p>
 
 Our project comprises of the following modules:
  1) **Congestion Prevention:** Don't you get fed up when you have to wait on traffic signal even when there is no car in the other lane. Can we control traffic lights based on car density in a particular lane? Yes! 
@@ -64,17 +64,17 @@ Our project comprises of the following modules:
 
  2) **Emergency Vehicle Priority:** Many people die in India because emergency vehicles don't reach required destination in time. Can we save life by informing people in advance about an incoming emergency vehicle? Definitely yes!
 
-![Emergency](https://github.com/psifrous/connected-cars/blob/master/images/Screenshot%20(93).png)
+<p align="center"><img src="https://github.com/psifrous/connected-cars/blob/master/images/Screenshot%20(93).png" width="400" /></p>
 
  3) **Drowsiness Detection:** Drowsy driving is the dangerous combination of driving and sleepiness or fatigue and it has led to many car accidents. Can we wake up the driver by playing some loud alarm? Super yes!
 
-![Drow](https://github.com/psifrous/connected-cars/blob/master/images/Screenshot%20(94).png)
+<p align="center"><img src="https://github.com/psifrous/connected-cars/blob/master/images/Screenshot%20(94).png" width="400" /></p>
 
  4) **Pothole Detection** : Potholes can cause severe damages to cars, passengers and to pedistrians too. It can damage your tire's sidewall or belts. Even a minor impact may knock your vehicle out of alignment. A pothole strike can damage your shocks or struts, or harm your suspension. Can we detect them and inform about that to the concerned authority and maintain a database? Sure yes! 
 
-![pot](https://github.com/psifrous/connected-cars/blob/master/images/Screenshot%20(96).png)
+<p align="center"><img src="https://github.com/psifrous/connected-cars/blob/master/images/Screenshot%20(96).png" width="400" /></p>
 
-### So drive happy and safe 😊 
+So drive happy and safe 😊 
 
 ## Contributors ✨
 
