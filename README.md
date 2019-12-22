@@ -1,4 +1,4 @@
-# connected-cars
+# Connected-cars
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)] 
 [![GitHub contributors](https://img.shields.io/github/contributors/psifrous/connected-cars)]
