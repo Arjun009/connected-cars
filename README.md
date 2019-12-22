@@ -60,7 +60,16 @@ Our project comprises of the following modules:
 
 So drive happy and safe 😊 
 
+## App Tour
+### Main Page
 ![Main Page](https://github.com/psifrous/connected-cars/blob/master/images/Screenshot%20(86).png)
+
+### Congestion Module
+
+<p float="left">
+  <img src="https://github.com/psifrous/connected-cars/blob/master/images/Screenshot%20(87).png" width="400" />
+  <img src="https://github.com/psifrous/connected-cars/blob/master/images/Screenshot%20(91).png" width="400" /> 
+</p>
 
 ## Contributors ✨
 
