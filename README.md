@@ -90,4 +90,4 @@ So drive happy and safe 😊
  </tr>
 </table>
 
-🔥This project was made for Codebreak hackathon at MIT College, Pune
+🔥This project was made at Codebreak hackathon at MIT College, Pune
