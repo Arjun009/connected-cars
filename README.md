@@ -37,8 +37,8 @@ Connected Cars is an initiative to improve traffic conditions, shorten duration 
 Our project comprises of the following modules:
 1) **Congestion Prevention:** Don't you get fed up when you have to wait on traffic signal even when there is no car in the other lane. Can we control traffic lights based on car density in a particular lane? Yes! 
 2) **Emergency Vehicle Priority:** Many people die in India because emergency vehicles don't reach required destination in time. Can we save life by informing people in advance about an incoming emergency vehicle? Definitely yes!
-3) Drowsiness Detection: Drowsy driving is the dangerous combination of driving and sleepiness or fatigue and it has led to many car accidents. Can we wake up the driver by playing some loud alarm? Yes... Demo 3
-4) Pothole Detection : Potholes can puncture your tire or bend or crack your wheel. It can damage your tire's sidewall or belts. Even a minor impact may knock your vehicle out of alignment. A pothole strike can damage your shocks or struts, or harm your suspension. Can we detect them and inform about that to the concerned authority? Yes.. Demo 4 
+3) **Drowsiness Detection:** Drowsy driving is the dangerous combination of driving and sleepiness or fatigue and it has led to many car accidents. Can we wake up the driver by playing some loud alarm? Super yes!
+4) **Pothole Detection** : Potholes can cause severe damages to cars, passengers and to pedistrians too. It can damage your tire's sidewall or belts. Even a minor impact may knock your vehicle out of alignment. A pothole strike can damage your shocks or struts, or harm your suspension. Can we detect them and inform about that to the concerned authority and maintain a database? Sure yes! 
 
 So drive happy and safe 😊 
 
