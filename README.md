@@ -12,7 +12,15 @@ A project aimed towards bringing the concept of connected cars using several mod
 
 ## Project information ℹ️
 - **Project Name**: Connected Cars
-- **Short Project Description**: _TBA_
+- **Short Project Description**: _An deployable solution for many major road and traffic problems faced in day to day life._
+
+| Project Modules |  Description |
+| --- | --- |
+| Congestion Prevention | Computer Vision based approch to control traffic lights based upon density |
+| Drowsiness Detection | Computer Vision based approch to indentify drowsiness of driver  |
+| Vacant Lanes | Notifying vehicles that are driven ahead of Emergency vehicles |
+| Pothole Detection | mdc | vf
+
 - **Team Name**: FORTIFY
 - **Team Members**: _Naman Bansal [@psifrous](https://github.com/psifrous), Swapnil Panwala [@panwalas](https://github.com/panwalas), Akshita Mehta [@MehtaAkshita](https://github.com/MehtaAkshita), Arjun Mohnot [@Arjun009](https://github.com/https://github.com/Arjun009)_
 - **Repository Link**: https://github.com/psifrous/connected-cars
