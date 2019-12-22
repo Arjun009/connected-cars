@@ -60,6 +60,8 @@ Our project comprises of the following modules:
 
 So drive happy and safe 😊 
 
+![Main Page](https://github.com/psifrous/connected-cars/blob/master/images/Screenshot%20(86).png)
+
 ## Contributors ✨
 
 <table>
